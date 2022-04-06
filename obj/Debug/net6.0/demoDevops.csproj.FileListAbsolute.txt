@@ -1,0 +1,15 @@
+D:\azure\demoDevops\bin\Debug\net6.0\demoDevops.exe
+D:\azure\demoDevops\bin\Debug\net6.0\demoDevops.deps.json
+D:\azure\demoDevops\bin\Debug\net6.0\demoDevops.runtimeconfig.json
+D:\azure\demoDevops\bin\Debug\net6.0\demoDevops.dll
+D:\azure\demoDevops\bin\Debug\net6.0\demoDevops.pdb
+D:\azure\demoDevops\obj\Debug\net6.0\demoDevops.csproj.AssemblyReference.cache
+D:\azure\demoDevops\obj\Debug\net6.0\demoDevops.GeneratedMSBuildEditorConfig.editorconfig
+D:\azure\demoDevops\obj\Debug\net6.0\demoDevops.AssemblyInfoInputs.cache
+D:\azure\demoDevops\obj\Debug\net6.0\demoDevops.AssemblyInfo.cs
+D:\azure\demoDevops\obj\Debug\net6.0\demoDevops.csproj.CoreCompileInputs.cache
+D:\azure\demoDevops\obj\Debug\net6.0\demoDevops.dll
+D:\azure\demoDevops\obj\Debug\net6.0\refint\demoDevops.dll
+D:\azure\demoDevops\obj\Debug\net6.0\demoDevops.pdb
+D:\azure\demoDevops\obj\Debug\net6.0\demoDevops.genruntimeconfig.cache
+D:\azure\demoDevops\obj\Debug\net6.0\ref\demoDevops.dll
